@@ -23,3 +23,6 @@ The API I used is [exchangerate.host](https://exchangerate.host/#/#docs)
 <p align="center">
 <img src="preview/REAL.png" align="center"/>  
 </p>
+
+## NOTE:
+I will add extra features in the future to this app
