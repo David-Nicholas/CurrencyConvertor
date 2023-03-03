@@ -2,7 +2,7 @@
 
 This project has been implemented using Java in Android Studio. It is a Currency Converter tool that is powered by an API which retrieves up-to-date exchange rates for the currencies that the user desires to convert. The converter ensures accuracy and ease of use and has over 150 currencies available to choose from.
 
-The API I used is exchangerate.host
+The API I used is [exchangerate.host](https://exchangerate.host/#/#docs)
 
 ## FUNCTIONALITIES:
 
@@ -14,6 +14,6 @@ The API I used is exchangerate.host
 
 ## PREVIEW:
 
-<img src="preview/CURRENCYLIST"/>  
-<img src="preview/TESTAPP"/>  
-<img src="preview/REAL"/>  
+<img src="preview/CURRENCYLIST.png"/>  
+<img src="preview/TESTAPP.png"/>  
+<img src="preview/REAL.png"/>  
