@@ -14,6 +14,6 @@ The API I used is [exchangerate.host](https://exchangerate.host/#/#docs)
 
 ## PREVIEW:
 
-<img src="preview/CURRENCYLIST.png"/>  
-<img src="preview/TESTAPP.png"/>  
-<img src="preview/REAL.png"/>  
+<img src="preview/CURRENCYLIST.png" align="center"/>  
+<img src="preview/TESTAPP.png" align="center"/>  
+<img src="preview/REAL.png" align="center"/>  
